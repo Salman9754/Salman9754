@@ -1,6 +1,6 @@
 ### Hi there I am Muhammad Salman Ansar <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN Stack) Developer from Pakisan :pakistan: 
 
-### :heavy_check_mark: Full Stack Developer | MERN Stack Expert
+### :heavy_check_mark: Full Stack Developer | Mern Stack Expert
 
 
 I am a skilled Software Developer with extensive experience in front-end and full-stack development using JavaScript technologies. My expertise includes working with React.js, Next.js, Node.js, TypeScript, and many other libraries and frameworks. I have a proven ability to lead cross-functional teams, optimize web applications, and deliver high-quality code in dynamic environments.
