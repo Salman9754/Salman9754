@@ -1,5 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building scalable web applications using the MERN stack, integrating advanced APIs, and enhancing application performance with optimized code.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, SaaS applications, and innovative web solutions where MERN technologies can make an impact.<br><br>🌟 I’m looking for help with<br>Exploring microservices architecture, advanced state management in React, and performance optimization techniques.<br><br>🌱 I’m currently learning<br>Next.js, TypeScript, and testing frameworks like Jest and Cypress to further enhance my development skill set.<br><br>💬 Ask me about<br>Web development, MERN stack best practices, and creating intuitive user interfaces.<br><br>⚡ Fun fact<br>I love coding late at night—it’s when I feel most creative and productive!
+### Hi there I am Muhammad Salman Ansar <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN Stack) Developer from Pakisan :pakistan: 
+
+### :heavy_check_mark: Full Stack Developer | MERN Stack |
+
+I am a skilled Software Developer with extensive experience in front-end and full-stack development using JavaScript technologies. My expertise includes working with React.js, Next.js, Node.js, TypeScript, and many other libraries and frameworks. I have a proven ability to lead cross-functional teams, optimize web applications, and deliver high-quality code in dynamic environments.
+
+<br/>
+<br/>
+
+
+
+<img align="right" class="GIF" alt="GIF" src="/coding.gif"  width="350px"/>
+
+## 🚀 What I Do
+
+- Crafting innovative digital solutions.
+- Leveraging cutting-edge technologies.
+- Dedicated to continuous learning and sharing knowledge.
+  
+<br/>
+<br/>
 
 
 ## 🌐 Socials:
