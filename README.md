@@ -1,9 +1,13 @@
 ### Hi there I am Muhammad Salman Ansar <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN Stack) Developer from Pakisan :pakistan: 
 
-### :heavy_check_mark: Full Stack Developer | Mern Stack Expert
+### :heavy_check_mark: Software Engineer | Frontent Developer
 
 
-I am a skilled Software Developer with extensive experience in front-end and full-stack development using JavaScript technologies. My expertise includes working with React.js, Next.js, Node.js, TypeScript, and many other libraries and frameworks. I have a proven ability to lead cross-functional teams, optimize web applications, and deliver high-quality code in dynamic environments.
+As a Software Engineer with a strong focus on frontend development, I build engaging and scalable web applications using React, JavaScript, TypeScript, and Bootstrap. I design intuitive user interfaces that prioritize both aesthetics and performance.
+
+In addition to my frontend expertise, I develop robust backend systems with Supabase and am actively learning the MERN stack to expand my full-stack capabilities. This evolving skill set enables me to deliver custom web apps and SaaS solutions that address real-world business challenges.
+
+I am passionate about creating efficient, high-performance digital experiences that drive business growth. Currently, I am seeking opportunities in website development and software engineering where I can leverage modern technologies and best practices to help businesses succeed.
 
 <br/>
 <br/>
@@ -27,7 +31,7 @@ I am a skilled Software Developer with extensive experience in front-end and ful
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/salmanansar) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Salman.Ansar.w2) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/19.salmaan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/salman_ansar79?igsh=MWZuZW5xaXVvcXgweQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-salman-ansar-4362a32aa) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmanwattoo79@gmail.com)
 
